@@ -29,7 +29,7 @@
     
 **To install the necessary libraries and functions**
     
-![installation](./ screenshots/ install.png ) 
+![installation](./screenshots/install.png ) 
 
     
 ---
@@ -42,17 +42,22 @@ The program is useful for user to evaluate different parts of the arbitration pr
     
     
     
-![table](./Screenshots/table.png)
+![table](./screenshots/table.png)
     
-  * The application also enables the user to use graphical means to get an deeper insight into the data. For instance, we can see two linear graphs shosing prices of Bitcoin for the 
+  * The application also enables the user to use graphical means to get an deeper insight into the data. For instance, we can see two linear graphs showing prices of Bitcoin on the different platforms.
     
-![comparison](./Screenshots/comparison.png)
+    
+![comparison](./screenshots/comparison.png)
+    
     
   * The application can also show statistical figures like Mean, Standard Deviations, etc.
     
+    
 ![stats](./Screenshots/stats.png)
 
+    
   * Finally, the application allows the user to estimate arbitrage profits and numbers
+    
     
  ![profit](./Screenshots/profit.png)
     
